@@ -1,19 +1,4 @@
-name: DimitriMartens
-favicon: null
-layout_spectrum: 0.69777
-typography_spectrum: 0.7653
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#fffffd'
@@ -23,6 +8,11 @@ color:
     - '#5b8a9e'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0
   rhythmicContrast: 0.75
+  saturation: 0
+cta: {}
+layout_spectrum: 1
+name: DimitriMartens
+opengraph: {}
 purpose: []
+typography_spectrum: 0.695945
