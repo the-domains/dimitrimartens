@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DimitriMartens]]></title>
         <description><![CDATA[DimitriMartens]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dimitrimartens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 10:32:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 18:14:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dimitrimartens/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8ad1d3c-c0a5-4162-9daa-18a09e54ee8e.JPG">]]></description>
-            <link>undefineddde39461-33b9-4f7b-8cdc-559e2bb943cf/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47058bacb5ca0c7395dd73a235ddb2c3ef977073.jpg">]]></description>
+            <link>https://thegrid.ai/dimitrimartens/dde39461-33b9-4f7b-8cdc-559e2bb943cf/index.html</link>
             <guid isPermaLink="false">dde39461-33b9-4f7b-8cdc-559e2bb943cf</guid>
-            <pubDate>Sun, 28 Feb 2016 10:32:02 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 18:14:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
